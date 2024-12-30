@@ -15,9 +15,9 @@ Features
 How to Run
 1. Compile the Main.java file using a Java compiler:  javac RPS.java
    
-Example Output
+Example Output:
 mathematica
-Copy code
+
 Enter rock, paper or scissors:
 rock
 User Pick: rock
